@@ -6,5 +6,3 @@
 `run create_mnistm.ipynb`
 - Build model
 `run DANN_tf2_mnist.ipynb`
-  
-
