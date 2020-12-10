@@ -1,6 +1,6 @@
 # Domain-Adaptation
 
-## [1] Domain-Adversarial Training of Neural Networks
+## [1] Domain-Adversarial Training of Neural Networks (Ganin et al., 2016) 
 
 <img src="./domain-adversarial-training-of-neural-networks-fig.jpg">
 
